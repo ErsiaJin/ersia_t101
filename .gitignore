@@ -6,5 +6,5 @@
 # *~
 week1/.terraform/
 week2/.terraform/
-week3/.terraform/
+week3/*/.terraform/
 week*/.terraform*
