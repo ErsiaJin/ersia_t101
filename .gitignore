@@ -9,3 +9,4 @@ week2/.terraform/
 week3/*/.terraform/
 week*/.terraform*
 *.exe
+*.tfstate.*
