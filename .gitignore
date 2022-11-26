@@ -4,10 +4,8 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
-week1/.terraform/
-week2/.terraform/
-week3/*/.terraform/
-week*/.terraform*
 week*/*/.terraform*
+week*/*/*tfstate*
+week*/*/*lock*
 *.exe
 *.tfstate.*
