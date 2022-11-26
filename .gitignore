@@ -9,3 +9,5 @@ week*/*/*tfstate*
 week*/*/*lock*
 *.exe
 *.tfstate.*
+*.tfstate
+*.lock.*
